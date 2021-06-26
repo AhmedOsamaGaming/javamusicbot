@@ -1,4 +1,5 @@
 token=ODU4MjAxNDgwNjE5MDk4MTMz.YNasaQ.4tiLWx1v_Hf9h1FxWBCo5DvQcSg
+
 owner=838924149685485568
 prefix=.%
 stayinchannel=true
